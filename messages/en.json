@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Associate Professor Dr Çetin Karakaya · Founder",
+    "title": "Associate Professor Dr Cetin Karakaya · Founder",
     "description": "Mechanical Engineer, R&D and Innovation Project Manager, University–Industry Collaboration Strategist. 25+ years across academia and industry."
   },
   "nav": {
@@ -12,7 +12,7 @@
     "contact": "Contact"
   },
   "hero": {
-    "name": "Associate Professor Dr Çetin Karakaya",
+    "name": "Associate Professor Dr Cetin Karakaya",
     "tagline": "Mechanical Engineer · R&D and Innovation Project Manager · University–Industry Collaboration Strategist",
     "location": "Bexhill-on-Sea, East Sussex, England",
     "links": {
@@ -24,7 +24,7 @@
   },
   "about": {
     "heading": "About",
-    "summary": "An Associate Professor and engineer with 25+ years of experience across academia and industry in advanced manufacturing, materials and strategic R&D management. He has managed 300+ industrial R&D projects, provided technical consultancy to 100+ industrial and public organisations, and coordinated ~30 R&D Project Markets along the idea-to-product innovation path. He has lived in the UK for 10+ years. His goal: to build an applied innovation ecosystem that solves the region's real needs and generates international collaboration, and to develop students into strong entrepreneurs for life after graduation.",
+    "summary": "An Associate Professor and engineer with 25+ years of experience across academia and industry in advanced manufacturing, materials and strategic R&D management. He has managed 300+ industrial R&D projects, provided technical consultancy to 100+ industrial and public organisations, and coordinated ~30 R&D Project Markets along the idea-to-product innovation path. He has lived in the UK for 10+ years.",
     "engineeringLogic": "Engineering Logic – analytical · calculable · solvable",
     "expertiseHeading": "Core Expertise",
     "expertise": [
@@ -177,10 +177,6 @@
   },
   "contact": {
     "heading": "Contact",
-    "emailLabel": "E-mail",
-    "email": "cetkarakaya@gmail.com",
-    "phoneLabel": "Tel",
-    "phone": "+44 7359 747212",
     "githubLabel": "GitHub",
     "github": "github.com/tr2uk",
     "linkedinHeading": "LinkedIn",

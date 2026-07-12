@@ -24,7 +24,7 @@
   },
   "about": {
     "heading": "Hakkında",
-    "summary": "İleri imalat, malzeme ve stratejik Ar-Ge yönetiminde 25+ yıl akademi ve sanayi deneyimine sahip Doçent Dr mühendis. 300+ sanayi Ar-Ge projesi yönetti, 100+ sanayi ve kamu kuruluşuna teknik danışmanlık verdi ve fikirden ürüne giden yolda ~30 Ar-Ge Proje Pazarı'nı koordine etti. 10+ yıldır İngiltere'de yaşıyor. Hedefi: bölgenin gerçek ihtiyaçlarını çözen ve uluslararası işbirliği yaratan bir uygulamalı inovasyon ekosistemi kurmak; öğrencileri mezuniyet sonrası için güçlü birer girişimci olarak yetiştirmek.",
+    "summary": "İleri imalat, malzeme ve stratejik Ar-Ge yönetiminde 25+ yıl akademi ve sanayi deneyimine sahip Doçent Dr mühendis. 300+ sanayi Ar-Ge projesi yönetti, 100+ sanayi ve kamu kuruluşuna teknik danışmanlık verdi ve fikirden ürüne giden yolda ~30 Ar-Ge Proje Pazarı'nı koordine etti. 10+ yıldır İngiltere'de yaşıyor.",
     "engineeringLogic": "Engineering Logic – analitik · hesaplanabilir · çözülebilir",
     "expertiseHeading": "Temel Uzmanlık",
     "expertise": [
@@ -177,10 +177,6 @@
   },
   "contact": {
     "heading": "İletişim",
-    "emailLabel": "E-posta",
-    "email": "cetkarakaya@gmail.com",
-    "phoneLabel": "Tel",
-    "phone": "+44 7359 747212",
     "githubLabel": "GitHub",
     "github": "github.com/tr2uk",
     "linkedinHeading": "LinkedIn",

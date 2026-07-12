@@ -8,16 +8,18 @@ export function personJsonLd(locale: string) {
   const honorificPrefix =
     locale === 'tr' ? 'Doç. Dr.' : 'Associate Professor Dr';
 
+  // Personal name is anglicised on the EN surface; TR keeps the diacritic.
+  const name = locale === 'tr' ? 'Çetin Karakaya' : 'Cetin Karakaya';
+
   return {
     '@context': 'https://schema.org',
     '@type': 'Person',
-    name: 'Çetin Karakaya',
+    name,
+    alternateName: 'Çetin Karakaya',
     honorificPrefix,
     jobTitle,
     url: 'https://founder.tr2uk.com',
     image: 'https://founder.tr2uk.com/assets/photo.jpg',
-    email: 'mailto:cetkarakaya@gmail.com',
-    telephone: '+44 7359 747212',
     worksFor: {
       '@type': 'Organization',
       name: 'TR2UK',

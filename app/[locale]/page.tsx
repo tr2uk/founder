@@ -258,18 +258,6 @@ export default async function FounderPage({
           <div className="grid gap-10 md:grid-cols-2">
             <div className="space-y-3 text-sm">
               <p>
-                <span className="text-slate-400">{t('contact.emailLabel')}: </span>
-                <a href={`mailto:${t('contact.email')}`} className="text-accent hover:underline">
-                  {t('contact.email')}
-                </a>
-              </p>
-              <p>
-                <span className="text-slate-400">{t('contact.phoneLabel')}: </span>
-                <a href={`tel:${t('contact.phone').replace(/\s/g, '')}`} className="hover:text-white">
-                  {t('contact.phone')}
-                </a>
-              </p>
-              <p>
                 <span className="text-slate-400">{t('contact.githubLabel')}: </span>
                 <a href={LINKS.github} target="_blank" rel="noopener noreferrer" className="hover:text-white">
                   {t('contact.github')}
