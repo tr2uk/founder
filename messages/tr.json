@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Doç Dr Çetin Karakaya · Kurucu",
+    "title": "Doç. Dr. Çetin Karakaya · Kurucu",
     "description": "Makine Mühendisi, Ar-Ge ve İnovasyon Proje Yöneticisi, Üniversite–Sanayi İşbirliği Stratejisti. 25+ yıl akademi ve sanayi deneyimi."
   },
   "nav": {
@@ -12,7 +12,7 @@
     "contact": "İletişim"
   },
   "hero": {
-    "name": "Doç Dr Çetin Karakaya",
+    "name": "Doç. Dr. Çetin Karakaya",
     "tagline": "Makine Mühendisi · Ar-Ge ve İnovasyon Proje Yöneticisi · Üniversite–Sanayi İşbirliği Stratejisti",
     "location": "Bexhill-on-Sea, East Sussex, İngiltere",
     "links": {
@@ -186,10 +186,10 @@
     "linkedinHeading": "LinkedIn",
     "linkedinHandle": "linkedin.com/in/drckarakaya",
     "follow": "Takip · 30K",
+    "b2verifyLabel": "B2Verify",
     "featuredHeading": "Öne Çıkan Gönderiler",
-    "featuredNote": "Yer tutucu – gerçek gönderiler daha sonra eklenecek.",
-    "placeholderTitle": "Yer tutucu gönderi",
-    "placeholderBody": "LinkedIn öne çıkan gönderisi burada yer alacak."
+    "featuredCardLabel": "LinkedIn'de öne çıkan gönderi",
+    "featuredCta": "LinkedIn'de görüntüle →"
   },
   "footer": {
     "rights": "Tüm hakları saklıdır."

@@ -5,10 +5,14 @@ export function personJsonLd(locale: string) {
       ? 'Makine Mühendisi · Ar-Ge ve İnovasyon Proje Yöneticisi'
       : 'Mechanical Engineer · R&D and Innovation Project Manager';
 
+  const honorificPrefix =
+    locale === 'tr' ? 'Doç. Dr.' : 'Associate Professor Dr';
+
   return {
     '@context': 'https://schema.org',
     '@type': 'Person',
     name: 'Çetin Karakaya',
+    honorificPrefix,
     jobTitle,
     url: 'https://founder.tr2uk.com',
     image: 'https://founder.tr2uk.com/assets/photo.jpg',

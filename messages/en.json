@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Assoc. Prof. Dr Çetin Karakaya · Founder",
+    "title": "Associate Professor Dr Çetin Karakaya · Founder",
     "description": "Mechanical Engineer, R&D and Innovation Project Manager, University–Industry Collaboration Strategist. 25+ years across academia and industry."
   },
   "nav": {
@@ -12,7 +12,7 @@
     "contact": "Contact"
   },
   "hero": {
-    "name": "Assoc. Prof. Dr Çetin Karakaya",
+    "name": "Associate Professor Dr Çetin Karakaya",
     "tagline": "Mechanical Engineer · R&D and Innovation Project Manager · University–Industry Collaboration Strategist",
     "location": "Bexhill-on-Sea, East Sussex, England",
     "links": {
@@ -186,10 +186,10 @@
     "linkedinHeading": "LinkedIn",
     "linkedinHandle": "linkedin.com/in/drckarakaya",
     "follow": "Follow · 30K",
+    "b2verifyLabel": "B2Verify",
     "featuredHeading": "Featured Posts",
-    "featuredNote": "Placeholder – real posts to be supplied later.",
-    "placeholderTitle": "Placeholder post",
-    "placeholderBody": "A featured LinkedIn post will appear here."
+    "featuredCardLabel": "Featured on LinkedIn",
+    "featuredCta": "View on LinkedIn →"
   },
   "footer": {
     "rights": "All rights reserved."

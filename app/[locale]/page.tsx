@@ -17,7 +17,9 @@ const LINKS = {
   github: 'https://github.com/tr2uk',
   orcid: 'https://orcid.org/0000-0002-9227-9170',
   scholar: 'https://scholar.google.com/citations?user=7BVbtHsAAAAJ',
-  amazon: 'https://www.amazon.com/s?k=The+Baird+Effect+Cetin+Karakaya',
+  amazon: 'https://amzn.eu/d/0b2gFaqI',
+  b2verify: 'https://www.b2verify.com/',
+  featuredPost: 'https://lnkd.in/p/eMeKYrqp',
 };
 
 function Section({
@@ -150,7 +152,14 @@ export default async function FounderPage({
                   <span className="text-sm text-slate-500">{j.dates}</span>
                 </div>
                 <p className="mt-0.5 font-medium text-slate-700">
-                  {j.org} · <span className="text-slate-500">{j.place}</span>
+                  {j.org === 'B2Verify' ? (
+                    <a href={LINKS.b2verify} target="_blank" rel="noopener noreferrer" className="text-primary underline decoration-accent underline-offset-2 hover:text-accent">
+                      {j.org}
+                    </a>
+                  ) : (
+                    j.org
+                  )}{' '}
+                  · <span className="text-slate-500">{j.place}</span>
                 </p>
                 <p className="mt-2 text-slate-600">{j.desc}</p>
               </div>
@@ -266,6 +275,12 @@ export default async function FounderPage({
                   {t('contact.github')}
                 </a>
               </p>
+              <p>
+                <span className="text-slate-400">{t('contact.b2verifyLabel')}: </span>
+                <a href={LINKS.b2verify} target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">
+                  b2verify.com
+                </a>
+              </p>
             </div>
 
             <div>
@@ -285,20 +300,23 @@ export default async function FounderPage({
                 {t('contact.featuredHeading')}
               </h4>
               <div className="grid gap-3 sm:grid-cols-3">
-                {[0, 1, 2].map((i) => (
-                  <div key={i} className="rounded-lg border border-dashed border-white/25 bg-white/5 p-4">
+                {[{ href: LINKS.featuredPost }].map((post, i) => (
+                  <a
+                    key={i}
+                    href={post.href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="group rounded-lg border border-white/25 bg-white/5 p-4 transition-colors hover:border-accent/60 hover:bg-white/10"
+                  >
                     <div className="text-sm font-medium text-slate-200">
-                      {t('contact.placeholderTitle')}
+                      {t('contact.featuredCardLabel')}
                     </div>
-                    <p className="mt-1 text-xs text-slate-400">
-                      {t('contact.placeholderBody')}
+                    <p className="mt-2 text-xs font-semibold text-accent">
+                      {t('contact.featuredCta')}
                     </p>
-                  </div>
+                  </a>
                 ))}
               </div>
-              <p className="mt-2 text-xs italic text-slate-500">
-                {t('contact.featuredNote')}
-              </p>
             </div>
           </div>
 
