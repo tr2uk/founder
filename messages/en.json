@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "title": "Assoc. Prof. Dr Çetin Karakaya · Founder",
+    "description": "Mechanical Engineer, R&D and Innovation Project Manager, University–Industry Collaboration Strategist. 25+ years across academia and industry."
+  },
+  "nav": {
+    "about": "About",
+    "experience": "Experience",
+    "education": "Education",
+    "publications": "Publications & Patents",
+    "achievements": "Achievements",
+    "contact": "Contact"
+  },
+  "hero": {
+    "name": "Assoc. Prof. Dr Çetin Karakaya",
+    "tagline": "Mechanical Engineer · R&D and Innovation Project Manager · University–Industry Collaboration Strategist",
+    "location": "Bexhill-on-Sea, East Sussex, England",
+    "links": {
+      "linkedin": "LinkedIn",
+      "github": "GitHub",
+      "orcid": "ORCID",
+      "scholar": "Google Scholar"
+    }
+  },
+  "about": {
+    "heading": "About",
+    "summary": "An Associate Professor and engineer with 25+ years of experience across academia and industry in advanced manufacturing, materials and strategic R&D management. He has managed 300+ industrial R&D projects, provided technical consultancy to 100+ industrial and public organisations, and coordinated ~30 R&D Project Markets along the idea-to-product innovation path. He has lived in the UK for 10+ years. His goal: to build an applied innovation ecosystem that solves the region's real needs and generates international collaboration, and to develop students into strong entrepreneurs for life after graduation.",
+    "engineeringLogic": "Engineering Logic – analytical · calculable · solvable",
+    "expertiseHeading": "Core Expertise",
+    "expertise": [
+      "Innovation & Strategy",
+      "R&D & Project Management",
+      "University–Industry Collaboration",
+      "Technology Transfer",
+      "Entrepreneurship Ecosystem",
+      "Patents & Intellectual Property",
+      "AI-Driven Business Models",
+      "Strategic Problem Solving",
+      "Finite Element Analysis (FEA/CAE)",
+      "Composite & Sandwich Structures",
+      "Hydrogen Storage",
+      "Welding Technologies",
+      "Advanced Manufacturing",
+      "Materials Science"
+    ],
+    "impactHeading": "Impact in Numbers",
+    "impact": [
+      { "n": "25+", "l": "Years Univ.–Industry" },
+      { "n": "300+", "l": "Industrial R&D Projects" },
+      { "n": "100+", "l": "Organisations Advised" },
+      { "n": "~30", "l": "R&D Project Markets" },
+      { "n": "3,000+", "l": "Entrepreneurs Trained" },
+      { "n": "100+", "l": "Patent Applications" },
+      { "n": "150+", "l": "Trademark Registrations" },
+      { "n": "4", "l": "Books" },
+      { "n": "3", "l": "Patents" },
+      { "n": "4", "l": "Software" }
+    ]
+  },
+  "experience": {
+    "heading": "Experience",
+    "items": [
+      {
+        "role": "Founder",
+        "org": "B2Verify",
+        "place": "London, England",
+        "dates": "Jan 2026 – Present",
+        "desc": "The UK's first \"deep-link\" business verification / trust-scoring engine; surfacing risk by cross-analysing the ownership and director networks of millions of companies."
+      },
+      {
+        "role": "Founder · Business Strategy & Immigration Compliance Adviser",
+        "org": "Black Rock Immigration Ltd",
+        "place": "East Sussex, England",
+        "dates": "Feb 2022 – Aug 2025",
+        "desc": "Strategic market-entry and UKVI compliance advisory for investors and tech founders (Innovator Founder, Global Talent, ECAA Turkish Businessperson)."
+      },
+      {
+        "role": "Founder · Consultant",
+        "org": "Ahir R&D Consultancy Inc.",
+        "place": "Sakarya, Turkey",
+        "dates": "Sep 2012 – Dec 2022",
+        "desc": "R&D roadmaps and high-budget manufacturing projects (concept to mass production) for 100+ industrial firms; securing funding from TÜBİTAK, KOSGEB, the Ministry of Industry and Development Agencies; R&D Centre establishment, patent/trademark/quality management."
+      },
+      {
+        "role": "Founder · Consultant",
+        "org": "Let's Go To UK Consulting Ltd.",
+        "place": "Hastings, England",
+        "dates": "May 2016 – Feb 2022",
+        "desc": "A strategic bridge for SMEs in UK–Turkey trade; import-export compliance and B2B matchmaking."
+      },
+      {
+        "role": "Assistant Professor – Mechatronics Engineering",
+        "org": "Istanbul Commerce University",
+        "place": "Istanbul, Turkey",
+        "dates": "Jan 2012 – Sep 2014",
+        "desc": "Entrepreneurship & Project Management courses; mentoring students from prototype to commercialisation; industry-focused curriculum development."
+      },
+      {
+        "role": "Lecturer & Head of Department",
+        "org": "Sakarya Univ. Karasu Vocational School",
+        "place": "Sakarya, Turkey",
+        "dates": "Jan 2009 – Dec 2011",
+        "desc": "Head of the Machinery and Metal Technologies Department; industrial internship/placement programmes; vocational curriculum renewal."
+      },
+      {
+        "role": "Research Assistant – Advanced Manufacturing",
+        "org": "Sakarya University",
+        "place": "Sakarya, Turkey",
+        "dates": "Dec 2002 – Dec 2008",
+        "desc": "Industrial projects in manufacturing technologies, welding and materials science; TÜBİTAK-supported research and scientific publications."
+      }
+    ]
+  },
+  "education": {
+    "heading": "Education",
+    "items": [
+      {
+        "year": "2011",
+        "title": "PhD – Mechanical Engineering",
+        "org": "Sakarya Univ. · UK NARIC equivalence RQF-8",
+        "desc": "Thesis: High-pressure composite hydrogen storage tanks (SAN-TEZ supported)."
+      },
+      {
+        "year": "2005",
+        "title": "MSc – Mechanical Eng. (Welding Tech.)",
+        "org": "Sakarya Univ.",
+        "desc": "Roll-Bond heat exchanger (KOSGEB-supported university–industry)."
+      },
+      {
+        "year": "2002",
+        "title": "BSc – Mechanical Engineering",
+        "org": "Sakarya Univ. · Top of Department (Valedictorian), High Honours",
+        "desc": "Completed the programme one semester early by taking advanced courses."
+      }
+    ]
+  },
+  "publications": {
+    "heading": "Publications & Patents",
+    "booksHeading": "Books",
+    "books": [
+      "The Baird Effect: Reinventing Start-ups in the Age of AI (2025, 205 pp. · available in all Amazon stores)",
+      "Girişimcilik Rüyası (The Entrepreneurship Dream) (2016)",
+      "R&D and Innovation Supports (2010)",
+      "1st R&D Project Market (2010)"
+    ],
+    "bairdLink": "The Baird Effect · Amazon",
+    "patentsHeading": "Patents",
+    "patents": [
+      "High-Pressure-Resistant Composite Hydrogen Storage Tank (2012)",
+      "Mis-fuelling Warning and Control System (2009)",
+      "Mobile-Phone Presence Detection Device (2008)"
+    ],
+    "papersHeading": "Publications",
+    "papers": "16 papers (8 Web of Science) · 42 conference papers"
+  },
+  "achievements": {
+    "heading": "Achievements",
+    "firstsHeading": "Notable Firsts & Success Story",
+    "firsts": [
+      "Through the Industrial R&D Support Unit he founded at the Sakarya Chamber of Commerce and Industry, he raised the province to 1st among all provinces (from 38th) in KOSGEB applications, and from 24th to 8th in TÜBİTAK TEYDEB. (2010–2011)",
+      "At Istanbul Commerce University he created Turkey's first accredited entrepreneurship curriculum for engineers, equivalent to the KOSGEB Entrepreneurship Programme; over 1,000 students earned the Applied Entrepreneurship certificate. (2012–2014)",
+      "He pioneered the establishment of a KOSGEB-TEKMER (Technology Centre) at Istanbul Commerce University, creating an ecosystem for academics and entrepreneurs to realise R&D projects. (2012–2014)",
+      "He pioneered the founding of an incubation centre at Sakarya Technopark and mentored dozens of student/academic projects from idea to commercialisation. (2011–2013)",
+      "As founding honorary advisor of the Sakarya Machinery Manufacturers' Association, he provided R&D support to regional industry and prepared the feasibility study for the Machinery Specialised Organised Industrial Zone. (2010–2014)",
+      "He voluntarily managed Sakarya's first geographical-indication registrations (Islama Köfte and Dartılı Keşkek) and secured their international registration. (2011)",
+      "B2Verify – founder of the UK's first true \"deep-link\" business verification engine. (2026)"
+    ],
+    "leadershipHeading": "Leadership · Board Memberships · Mentorship · Awards",
+    "leadership": [
+      "~30 R&D Project Market coordinations (2009–2018) – Exporters' Associations (İKMİB, AKİB, OAİB), Chambers of Commerce and Industry, NGOs, universities and technoparks.",
+      "Applied training for 3,000+ engineers and entrepreneurs; seminars and project mentoring.",
+      "TÜBİTAK BİGG – innovation mentor and project-evaluation juror (2014–2021); one-to-one mentoring of 50+ entrepreneurs.",
+      "Member of the ISTKA Project Evaluation Board; member of the Rural Development Projects Evaluation Board, Sakarya Provincial Directorate of Agriculture.",
+      "SAN-TEZ doctoral research grant (2009) – resulted in a patent and commercialisation.",
+      "KOSGEB R&D Innovation grant (2003) through industry collaboration within his MSc thesis; Top of Department, BSc (2002)."
+    ]
+  },
+  "contact": {
+    "heading": "Contact",
+    "emailLabel": "E-mail",
+    "email": "cetkarakaya@gmail.com",
+    "phoneLabel": "Tel",
+    "phone": "+44 7359 747212",
+    "githubLabel": "GitHub",
+    "github": "github.com/tr2uk",
+    "linkedinHeading": "LinkedIn",
+    "linkedinHandle": "linkedin.com/in/drckarakaya",
+    "follow": "Follow · 30K",
+    "featuredHeading": "Featured Posts",
+    "featuredNote": "Placeholder – real posts to be supplied later.",
+    "placeholderTitle": "Placeholder post",
+    "placeholderBody": "A featured LinkedIn post will appear here."
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}

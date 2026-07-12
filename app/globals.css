@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+/* Design tokens */
+@theme {
+  --color-primary: #0a192f;
+  --color-accent: #64ffda;
+  /* Bai Jamjuree is injected by next/font as --font-bai */
+  --font-sans: var(--font-bai), "Bai Jamjuree", -apple-system, sans-serif;
+}
+
+:root {
+  --primary: #0a192f;
+  --accent: #64ffda;
+}
+
+html {
+  scroll-behavior: smooth;
+  /* offset for sticky sub-nav when jumping to anchors */
+  scroll-padding-top: 64px;
+  font-family: var(--font-sans);
+}
+
+body {
+  color: #0f172a;
+  background: #ffffff;
+  font-weight: 400;
+}

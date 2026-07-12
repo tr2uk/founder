@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "title": "Doç Dr Çetin Karakaya · Kurucu",
+    "description": "Makine Mühendisi, Ar-Ge ve İnovasyon Proje Yöneticisi, Üniversite–Sanayi İşbirliği Stratejisti. 25+ yıl akademi ve sanayi deneyimi."
+  },
+  "nav": {
+    "about": "Hakkında",
+    "experience": "Deneyim",
+    "education": "Eğitim",
+    "publications": "Yayınlar & Patentler",
+    "achievements": "Başarılar",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "name": "Doç Dr Çetin Karakaya",
+    "tagline": "Makine Mühendisi · Ar-Ge ve İnovasyon Proje Yöneticisi · Üniversite–Sanayi İşbirliği Stratejisti",
+    "location": "Bexhill-on-Sea, East Sussex, İngiltere",
+    "links": {
+      "linkedin": "LinkedIn",
+      "github": "GitHub",
+      "orcid": "ORCID",
+      "scholar": "Google Scholar"
+    }
+  },
+  "about": {
+    "heading": "Hakkında",
+    "summary": "İleri imalat, malzeme ve stratejik Ar-Ge yönetiminde 25+ yıl akademi ve sanayi deneyimine sahip Doçent Dr mühendis. 300+ sanayi Ar-Ge projesi yönetti, 100+ sanayi ve kamu kuruluşuna teknik danışmanlık verdi ve fikirden ürüne giden yolda ~30 Ar-Ge Proje Pazarı'nı koordine etti. 10+ yıldır İngiltere'de yaşıyor. Hedefi: bölgenin gerçek ihtiyaçlarını çözen ve uluslararası işbirliği yaratan bir uygulamalı inovasyon ekosistemi kurmak; öğrencileri mezuniyet sonrası için güçlü birer girişimci olarak yetiştirmek.",
+    "engineeringLogic": "Engineering Logic – analitik · hesaplanabilir · çözülebilir",
+    "expertiseHeading": "Temel Uzmanlık",
+    "expertise": [
+      "İnovasyon & Strateji",
+      "Ar-Ge & Proje Yönetimi",
+      "Üniversite–Sanayi İşbirliği",
+      "Teknoloji Transferi",
+      "Girişimcilik Ekosistemi",
+      "Patent & Fikri Mülkiyet",
+      "AI Destekli İş Modelleri",
+      "Stratejik Problem Çözme",
+      "Sonlu Elemanlar (FEA/CAE)",
+      "Kompozit & Sandviç Yapılar",
+      "Hidrojen Depolama",
+      "Kaynak Teknolojileri",
+      "İleri İmalat",
+      "Malzeme Bilimi"
+    ],
+    "impactHeading": "Rakamlarla Etki",
+    "impact": [
+      { "n": "25+", "l": "Yıl Üniv.–Sanayi" },
+      { "n": "300+", "l": "Sanayi Ar-Ge Projesi" },
+      { "n": "100+", "l": "Kurum Danışmanlığı" },
+      { "n": "~30", "l": "Ar-Ge Proje Pazarı" },
+      { "n": "3.000+", "l": "Girişimci Yetiştirme" },
+      { "n": "100+", "l": "Patent Başvurusu" },
+      { "n": "150+", "l": "Marka Tescili" },
+      { "n": "4", "l": "Kitap" },
+      { "n": "3", "l": "Patent" },
+      { "n": "4", "l": "Yazılım" }
+    ]
+  },
+  "experience": {
+    "heading": "Deneyim",
+    "items": [
+      {
+        "role": "Kurucu",
+        "org": "B2Verify",
+        "place": "Londra, İngiltere",
+        "dates": "Oca 2026 – Günümüz",
+        "desc": "İngiltere'nin ilk \"deep-link\" iş doğrulama / güven skoru motoru; milyonlarca şirketin sahiplik/direktör ağını çapraz analizle risk tespiti."
+      },
+      {
+        "role": "Kurucu · İş Stratejisi ve Göç Uyumu Danışmanı",
+        "org": "Black Rock Immigration Ltd",
+        "place": "East Sussex, İngiltere",
+        "dates": "Şub 2022 – Ağu 2025",
+        "desc": "Yatırımcı ve teknoloji kurucularına stratejik pazara giriş ve UKVI uyum danışmanlığı (Innovator Founder, Global Talent, ECAA Turkish Businessperson)."
+      },
+      {
+        "role": "Kurucu · Danışman",
+        "org": "Ahir Ar-Ge Danışmanlık A.Ş.",
+        "place": "Sakarya, Türkiye",
+        "dates": "Eyl 2012 – Ara 2022",
+        "desc": "100+ sanayi firması için Ar-Ge yol haritaları ve yüksek bütçeli imalat projeleri (kavramdan seri üretime); TÜBİTAK, KOSGEB, Sanayi Bakanlığı ve Kalkınma Ajansları fonlarından yararlandırma; Ar-Ge Merkezi kuruluşu, patent/marka/kalite yönetimi."
+      },
+      {
+        "role": "Kurucu · Danışman",
+        "org": "Let's Go To UK Consulting Ltd.",
+        "place": "Hastings, İngiltere",
+        "dates": "May 2016 – Şub 2022",
+        "desc": "Türkiye–İngiltere ticaretinde KOBİ'ler için stratejik köprü; ihracat-ithalat uyumu ve B2B eşleştirme."
+      },
+      {
+        "role": "Yardımcı Doçent – Mekatronik Mühendisliği",
+        "org": "İstanbul Ticaret Üniversitesi",
+        "place": "İstanbul, Türkiye",
+        "dates": "Oca 2012 – Eyl 2014",
+        "desc": "Girişimcilik & Proje Yönetimi dersleri; prototipten ürüne ticarileşmede öğrenci mentorluğu; sanayi-odaklı müfredat geliştirme."
+      },
+      {
+        "role": "Öğretim Görevlisi & Bölüm Başkanı",
+        "org": "Sakarya Üniv. Karasu MYO",
+        "place": "Sakarya, Türkiye",
+        "dates": "Oca 2009 – Ara 2011",
+        "desc": "Makine ve Metal Teknolojileri Bölüm Başkanı; sanayi staj/yerleştirme programları; mesleki müfredat yenileme."
+      },
+      {
+        "role": "Araştırma Görevlisi – İleri İmalat",
+        "org": "Sakarya Üniversitesi",
+        "place": "Sakarya, Türkiye",
+        "dates": "Ara 2002 – Ara 2008",
+        "desc": "İmalat teknolojileri, kaynak ve malzeme bilimi üzerine sanayi projeleri; TÜBİTAK destekli araştırmalar ve bilimsel yayınlar."
+      }
+    ]
+  },
+  "education": {
+    "heading": "Eğitim",
+    "items": [
+      {
+        "year": "2011",
+        "title": "Doktora – Makine Mühendisliği",
+        "org": "Sakarya Üniv. · UK NARIC denkliği RQF-8",
+        "desc": "Tez: Yüksek basınçlı kompozit hidrojen depolama tankları (SAN-TEZ destekli)."
+      },
+      {
+        "year": "2005",
+        "title": "Yüksek Lisans – Makine Müh. (Kaynak Tekn.)",
+        "org": "Sakarya Üniv.",
+        "desc": "Roll-Bond ısı değiştirici (KOSGEB destekli üniversite–sanayi)."
+      },
+      {
+        "year": "2002",
+        "title": "Lisans – Makine Mühendisliği",
+        "org": "Sakarya Üniv. · Bölüm Birincisi, Yüksek Onur",
+        "desc": "Üstten ders alarak programı bir dönem erken tamamladı."
+      }
+    ]
+  },
+  "publications": {
+    "heading": "Yayınlar & Patentler",
+    "booksHeading": "Kitaplar",
+    "books": [
+      "The Baird Effect: Reinventing Start-ups in the Age of AI (2025, 205 s. · tüm Amazon mağazalarında)",
+      "Girişimcilik Rüyası (2016)",
+      "Ar-Ge ve Yenilik Destekleri (2010)",
+      "1. Ar-Ge Proje Pazarı (2010)"
+    ],
+    "bairdLink": "The Baird Effect · Amazon",
+    "patentsHeading": "Patentler",
+    "patents": [
+      "Yüksek Basınca Dayanıklı Kompozit Hidrojen Tankı (2012)",
+      "Hatalı Yakıt Dolum Uyarı Sistemi (2009)",
+      "Cep Telefonu Varlık Bildirim Cihazı (2008)"
+    ],
+    "papersHeading": "Yayınlar",
+    "papers": "16 makale (8 Web of Science) · 42 bilimsel bildiri"
+  },
+  "achievements": {
+    "heading": "Başarılar",
+    "firstsHeading": "Öne Çıkan İlkler & Başarı Hikayesi",
+    "firsts": [
+      "Sakarya Ticaret ve Sanayi Odası'nda kurduğu Sanayi Ar-Ge Destek Birimi ile Sakarya'yı, KOSGEB başvurularında tüm iller arasında 38.→1., TÜBİTAK TEYDEB'de 24.→8. sıraya taşıdı. (2010–2011)",
+      "İstanbul Ticaret Üniversitesi'nde Türkiye'nin ilk, KOSGEB Girişimcilik Programı'na eşdeğer akredite mühendis girişimcilik müfredatını kurdu; 1.000'den fazla öğrenci Uygulamalı Girişimcilik sertifikası aldı. (2012–2014)",
+      "İstanbul Ticaret Üniversitesi'nde KOSGEB-TEKMER kurulmasına öncülük ederek akademisyen ve girişimcilerin Ar-Ge projelerini hayata geçirebileceği ekosistemi oluşturdu. (2012–2014)",
+      "Sakarya Teknopark'ta kuluçka merkezi kurulmasına öncülük etti; fikirden ticarileşmeye uzanan onlarca öğrenci/akademisyen projesinde mentörlük yaptı. (2011–2013)",
+      "Sakarya Makine İmalatçıları Birliği'nin kurucu fahri danışmanı olarak bölge sanayisine Ar-Ge desteği verdi; Makine İhtisas OSB kuruluş fizibilitesini hazırladı. (2010–2014)",
+      "Sakarya'nın ilk coğrafi işaret tescillerini (Islama Köfte ve Dartılı Keşkek) gönüllü yönetti ve uluslararası tescilini sağladı. (2011)",
+      "B2Verify – İngiltere'nin ilk gerçek \"deep-link\" iş doğrulama motorunun kurucusu. (2026)"
+    ],
+    "leadershipHeading": "Liderlik · Kurul Üyelikleri · Mentörlük · Ödüller",
+    "leadership": [
+      "~30 Ar-Ge Proje Pazarı koordinatörlüğü (2009–2018) – İhracatçı Birlikleri (İKMİB, AKİB, OAİB), Ticaret ve Sanayi Odaları, STK'lar, üniversite ve teknoparklar.",
+      "3.000+ mühendis ve girişimciye uygulamalı eğitim; seminer ve proje mentorluğu.",
+      "TÜBİTAK BİGG – inovasyon mentoru ve proje değerlendirme jürisi (2014–2021); 50+ girişimciye birebir mentörlük.",
+      "İSTKA Proje Değerlendirme Kurulu üyesi; Sakarya Tarım İl Müd. Kırsal Kalkınma Projeleri Değerlendirme Kurulu üyesi.",
+      "SAN-TEZ doktora araştırma hibesi (2009) – patente ve ticarileşmeye dönüştü.",
+      "Yüksek lisans tezi kapsamında KOSGEB Ar-Ge İnovasyon hibesi (2003); Lisans Bölüm Birincisi (2002)."
+    ]
+  },
+  "contact": {
+    "heading": "İletişim",
+    "emailLabel": "E-posta",
+    "email": "cetkarakaya@gmail.com",
+    "phoneLabel": "Tel",
+    "phone": "+44 7359 747212",
+    "githubLabel": "GitHub",
+    "github": "github.com/tr2uk",
+    "linkedinHeading": "LinkedIn",
+    "linkedinHandle": "linkedin.com/in/drckarakaya",
+    "follow": "Takip · 30K",
+    "featuredHeading": "Öne Çıkan Gönderiler",
+    "featuredNote": "Yer tutucu – gerçek gönderiler daha sonra eklenecek.",
+    "placeholderTitle": "Yer tutucu gönderi",
+    "placeholderBody": "LinkedIn öne çıkan gönderisi burada yer alacak."
+  },
+  "footer": {
+    "rights": "Tüm hakları saklıdır."
+  }
+}
