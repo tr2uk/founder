@@ -321,7 +321,7 @@ export default async function FounderPage({
           </div>
 
           <p className="mt-12 border-t border-white/10 pt-6 text-center text-xs text-slate-500">
-            © 2026 Çetin Karakaya · TR2UK. {t('footer.rights')}
+            © 2026 {t('hero.name')} · TR2UK. {t('footer.rights')}
           </p>
         </div>
       </footer>
