@@ -177,15 +177,28 @@
   },
   "contact": {
     "heading": "Contact",
-    "githubLabel": "GitHub",
-    "github": "github.com/tr2uk",
     "linkedinHeading": "LinkedIn",
     "linkedinHandle": "linkedin.com/in/drckarakaya",
     "follow": "Follow · 30K",
-    "b2verifyLabel": "B2Verify",
     "featuredHeading": "Featured Posts",
     "featuredCardLabel": "Featured on LinkedIn",
-    "featuredCta": "View on LinkedIn →"
+    "featuredCta": "View on LinkedIn →",
+    "form": {
+      "heading": "Send a message",
+      "name": "Full Name",
+      "namePlaceholder": "Your name",
+      "phone": "Phone",
+      "optional": "optional",
+      "phonePlaceholder": "Your phone number",
+      "email": "Email",
+      "emailPlaceholder": "you@example.com",
+      "message": "Message",
+      "messagePlaceholder": "Your message",
+      "submit": "Send",
+      "sending": "Sending…",
+      "success": "Your message has been sent, thank you.",
+      "error": "Could not send, please try again."
+    }
   },
   "footer": {
     "rights": "All rights reserved."

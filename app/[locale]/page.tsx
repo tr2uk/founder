@@ -1,5 +1,6 @@
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import SectionNav from '@/components/SectionNav';
+import ContactForm from '@/components/ContactForm';
 import { personJsonLd } from '@/lib/person-jsonld';
 
 type Metric = { n: string; l: string };
@@ -256,19 +257,11 @@ export default async function FounderPage({
             </span>
           </h2>
           <div className="grid gap-10 md:grid-cols-2">
-            <div className="space-y-3 text-sm">
-              <p>
-                <span className="text-slate-400">{t('contact.githubLabel')}: </span>
-                <a href={LINKS.github} target="_blank" rel="noopener noreferrer" className="hover:text-white">
-                  {t('contact.github')}
-                </a>
-              </p>
-              <p>
-                <span className="text-slate-400">{t('contact.b2verifyLabel')}: </span>
-                <a href={LINKS.b2verify} target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">
-                  b2verify.com
-                </a>
-              </p>
+            <div>
+              <h3 className="mb-4 text-lg font-semibold text-white">
+                {t('contact.form.heading')}
+              </h3>
+              <ContactForm />
             </div>
 
             <div>

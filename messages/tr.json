@@ -177,15 +177,28 @@
   },
   "contact": {
     "heading": "İletişim",
-    "githubLabel": "GitHub",
-    "github": "github.com/tr2uk",
     "linkedinHeading": "LinkedIn",
     "linkedinHandle": "linkedin.com/in/drckarakaya",
     "follow": "Takip · 30K",
-    "b2verifyLabel": "B2Verify",
     "featuredHeading": "Öne Çıkan Gönderiler",
     "featuredCardLabel": "LinkedIn'de öne çıkan gönderi",
-    "featuredCta": "LinkedIn'de görüntüle →"
+    "featuredCta": "LinkedIn'de görüntüle →",
+    "form": {
+      "heading": "Mesaj gönderin",
+      "name": "Ad Soyad",
+      "namePlaceholder": "Adınız",
+      "phone": "Telefon",
+      "optional": "isteğe bağlı",
+      "phonePlaceholder": "Telefon numaranız",
+      "email": "E-posta",
+      "emailPlaceholder": "siz@ornek.com",
+      "message": "Mesaj",
+      "messagePlaceholder": "Mesajınız",
+      "submit": "Gönder",
+      "sending": "Gönderiliyor…",
+      "success": "Mesajınız gönderildi, teşekkürler.",
+      "error": "Gönderilemedi, lütfen tekrar deneyin."
+    }
   },
   "footer": {
     "rights": "Tüm hakları saklıdır."
